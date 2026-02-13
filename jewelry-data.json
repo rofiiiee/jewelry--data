@@ -16,7 +16,7 @@
       "reviews": 124,
       "featured": true,
       "newArrival": false,
-      "image": "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?q=80&w=800&auto=format&fit=crop",
+      "image": "https://cdn.pixabay.com/photo/2017/10/07/11/05/diamond-2829444_1280.jpg",
       "description": "A timeless 18K gold necklace featuring a brilliant-cut diamond centerpiece."
     },
     {
@@ -32,7 +32,7 @@
       "reviews": 54,
       "featured": false,
       "newArrival": true,
-      "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?q=80&w=800&auto=format&fit=crop",
+      "image": "https://cdn.pixabay.com/photo/2016/11/29/10/07/jewelry-1868968_1280.jpg",
       "description": "Elegant pearl necklace inspired by celestial beauty."
     },
     {
@@ -48,7 +48,7 @@
       "reviews": 76,
       "featured": true,
       "newArrival": false,
-      "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?q=80&w=800&auto=format&fit=crop",
+      "image": "https://cdn.pixabay.com/photo/2016/03/09/09/17/jewelry-1246010_1280.jpg",
       "description": "White gold pendant with deep blue sapphire stone."
     },
     {
@@ -64,7 +64,7 @@
       "reviews": 89,
       "featured": true,
       "newArrival": false,
-      "image": "https://images.unsplash.com/photo-1605100853661-47fbc5f8f08b?q=80&w=800&auto=format&fit=crop",
+      "image": "https://cdn.pixabay.com/photo/2016/02/23/01/38/ring-1218274_1280.jpg",
       "description": "A premium platinum solitaire ring symbolizing eternal love."
     },
     {
@@ -80,7 +80,7 @@
       "reviews": 73,
       "featured": false,
       "newArrival": true,
-      "image": "https://images.unsplash.com/photo-1588444650733-d1c5c0a1b0f7?q=80&w=800&auto=format&fit=crop",
+      "image": "https://cdn.pixabay.com/photo/2014/12/21/23/33/ring-576422_1280.jpg",
       "description": "Vintage-inspired ring with sapphire center stone."
     },
     {
@@ -96,7 +96,7 @@
       "reviews": 61,
       "featured": false,
       "newArrival": false,
-      "image": "https://images.unsplash.com/photo-1587630080130-52f3094c5a7a?q=80&w=800&auto=format&fit=crop",
+      "image": "https://cdn.pixabay.com/photo/2017/10/02/23/02/emerald-2813815_1280.jpg",
       "description": "Elegant emerald halo ring surrounded by diamonds."
     },
     {
@@ -112,7 +112,7 @@
       "reviews": 67,
       "featured": true,
       "newArrival": false,
-      "image": "https://images.unsplash.com/photo-1617038220319-276d3cfab638?q=80&w=800&auto=format&fit=crop",
+      "image": "https://images.pexels.com/photos/208744/pexels-photo-208744.jpeg?auto=compress&cs=tinysrgb&w=800",
       "description": "Elegant infinity bracelet crafted in pure 18K gold."
     },
     {
@@ -128,7 +128,7 @@
       "reviews": 98,
       "featured": true,
       "newArrival": false,
-      "image": "https://images.unsplash.com/photo-1611085583191-a3b181a88401?q=80&w=800&auto=format&fit=crop",
+      "image": "https://images.pexels.com/photos/1690155/pexels-photo-1690155.jpeg?auto=compress&cs=tinysrgb&w=800",
       "description": "Luxury diamond tennis bracelet with flawless finish."
     },
     {
@@ -144,7 +144,7 @@
       "reviews": 44,
       "featured": false,
       "newArrival": true,
-      "image": "https://images.unsplash.com/photo-1603213612992-5f7d00e91c9b?q=80&w=800&auto=format&fit=crop",
+      "image": "https://images.pexels.com/photos/932093/pexels-photo-932093.jpeg?auto=compress&cs=tinysrgb&w=800",
       "description": "Modern charm bracelet crafted in rose gold."
     },
     {
@@ -160,7 +160,7 @@
       "reviews": 102,
       "featured": true,
       "newArrival": false,
-      "image": "https://images.unsplash.com/photo-1629224316810-9d8805b95e76?q=80&w=800&auto=format&fit=crop",
+      "image": "https://images.pexels.com/photos/5077048/pexels-photo-5077048.jpeg?auto=compress&cs=tinysrgb&w=800",
       "description": "White gold earrings adorned with natural emerald stones."
     }
   ],
