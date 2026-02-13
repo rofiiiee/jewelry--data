@@ -37,6 +37,22 @@
     },
     {
       "id": 3,
+      "name": "Midnight Sapphire Pendant",
+      "category": "Necklaces",
+      "price": 3100,
+      "oldPrice": 3500,
+      "material": "White Gold",
+      "stone": "Sapphire",
+      "stock": 5,
+      "rating": 4.8,
+      "reviews": 76,
+      "featured": true,
+      "newArrival": false,
+      "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?q=80&w=800&auto=format&fit=crop",
+      "description": "White gold pendant with deep blue sapphire stone."
+    },
+    {
+      "id": 4,
       "name": "Solitaire Diamond Ring",
       "category": "Rings",
       "price": 4200,
@@ -48,11 +64,11 @@
       "reviews": 89,
       "featured": true,
       "newArrival": false,
-      "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?q=80&w=800&auto=format&fit=crop",
+      "image": "https://images.unsplash.com/photo-1605100853661-47fbc5f8f08b?q=80&w=800&auto=format&fit=crop",
       "description": "A premium platinum solitaire ring symbolizing eternal love."
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Vintage Sapphire Ring",
       "category": "Rings",
       "price": 3800,
@@ -68,7 +84,23 @@
       "description": "Vintage-inspired ring with sapphire center stone."
     },
     {
-      "id": 5,
+      "id": 6,
+      "name": "Emerald Halo Ring",
+      "category": "Rings",
+      "price": 4500,
+      "oldPrice": null,
+      "material": "White Gold",
+      "stone": "Emerald",
+      "stock": 3,
+      "rating": 4.8,
+      "reviews": 61,
+      "featured": false,
+      "newArrival": false,
+      "image": "https://images.unsplash.com/photo-1587630080130-52f3094c5a7a?q=80&w=800&auto=format&fit=crop",
+      "description": "Elegant emerald halo ring surrounded by diamonds."
+    },
+    {
+      "id": 7,
       "name": "Infinity Gold Bracelet",
       "category": "Bracelets",
       "price": 1950,
@@ -84,7 +116,7 @@
       "description": "Elegant infinity bracelet crafted in pure 18K gold."
     },
     {
-      "id": 6,
+      "id": 8,
       "name": "Diamond Tennis Bracelet",
       "category": "Bracelets",
       "price": 5200,
@@ -100,7 +132,23 @@
       "description": "Luxury diamond tennis bracelet with flawless finish."
     },
     {
-      "id": 7,
+      "id": 9,
+      "name": "Rose Gold Charm Bracelet",
+      "category": "Bracelets",
+      "price": 1750,
+      "oldPrice": null,
+      "material": "Rose Gold",
+      "stone": "None",
+      "stock": 10,
+      "rating": 4.6,
+      "reviews": 44,
+      "featured": false,
+      "newArrival": true,
+      "image": "https://images.unsplash.com/photo-1603213612992-5f7d00e91c9b?q=80&w=800&auto=format&fit=crop",
+      "description": "Modern charm bracelet crafted in rose gold."
+    },
+    {
+      "id": 10,
       "name": "Royal Drop Earrings",
       "category": "Earrings",
       "price": 3100,
@@ -114,22 +162,6 @@
       "newArrival": false,
       "image": "https://images.unsplash.com/photo-1629224316810-9d8805b95e76?q=80&w=800&auto=format&fit=crop",
       "description": "White gold earrings adorned with natural emerald stones."
-    },
-    {
-      "id": 8,
-      "name": "Diamond Stud Earrings",
-      "category": "Earrings",
-      "price": 2200,
-      "oldPrice": 2500,
-      "material": "Platinum",
-      "stone": "Diamond",
-      "stock": 9,
-      "rating": 4.9,
-      "reviews": 88,
-      "featured": false,
-      "newArrival": false,
-      "image": "https://images.unsplash.com/photo-1635767798638-3e25273a8236?q=80&w=800&auto=format&fit=crop",
-      "description": "Classic diamond stud earrings for timeless elegance."
     }
   ],
   "offers": [
