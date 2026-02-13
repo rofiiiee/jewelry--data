@@ -1,0 +1,146 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Gold Plated Jewelry Set",
+      "price": "16.97",
+      "original_price": "21.00",
+      "rating": "3.8",
+      "num_ratings": "2025",
+      "photo": "https://m.media-amazon.com/images/I/81YUtidOP5L._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/IFKM-Necklace-Valentine-Anniversary-Friendship/dp/B0BN57HRJJ"
+    },
+    {
+      "id": "2",
+      "title": "Dainty Gold Bracelets Set",
+      "price": "12.99",
+      "original_price": "14.99",
+      "rating": "4.4",
+      "num_ratings": "1290",
+      "photo": "https://m.media-amazon.com/images/I/61ohzfhPjjL._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/Poxtex-Bracelets-Waterproof-Adjustable-Herringbone/dp/B0C36VL5ZP"
+    },
+    {
+      "id": "3",
+      "title": "9 Pairs Gold Hoop Earrings",
+      "price": "15.99",
+      "rating": "4.4",
+      "num_ratings": "2819",
+      "photo": "https://m.media-amazon.com/images/I/81SFI8Zv8nL._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/Earrings-Chunky-Plated-Statement-Jewelry/dp/B0BRDZVJHV"
+    },
+    {
+      "id": "4",
+      "title": "Bow Gold Necklace",
+      "price": "13.99",
+      "original_price": "14.99",
+      "rating": "4.5",
+      "num_ratings": "395",
+      "photo": "https://m.media-amazon.com/images/I/51YRZvOyLYL._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/Risamil-Necklace-Pendant-Necklaces-Jewelry/dp/B0CR7L7ML7"
+    },
+    {
+      "id": "5",
+      "title": "Daisy Pearl Necklace",
+      "price": "8.99",
+      "original_price": "13.99",
+      "rating": "4.4",
+      "num_ratings": "508",
+      "photo": "https://m.media-amazon.com/images/I/61PtesbTvTL._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/SmileBelle-Necklace-Necklaces-Jewelry-Wedding/dp/B0CXJ5NB3K"
+    },
+    {
+      "id": "6",
+      "title": "Cubic Zirconia Tennis Bracelet",
+      "price": "18.45",
+      "rating": "4.4",
+      "num_ratings": "28432",
+      "photo": "https://m.media-amazon.com/images/I/610VsCaFMXL._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/PAVOI-Zirconia-Classic-Bracelet-Bracelets/dp/B07T9N5T79"
+    },
+    {
+      "id": "7",
+      "title": "Layered Gold Necklaces Set",
+      "price": "14.99",
+      "rating": "4.4",
+      "num_ratings": "335",
+      "photo": "https://m.media-amazon.com/images/I/61ScE+CeZ6L._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/Necklaces-Stackable-Layering-Paperclip-Necklace/dp/B0D3T518P6"
+    },
+    {
+      "id": "8",
+      "title": "Diamond Dainty Necklace",
+      "price": "14.99",
+      "original_price": "19.99",
+      "rating": "4.4",
+      "num_ratings": "2883",
+      "photo": "https://m.media-amazon.com/images/I/61OHLiIUVVL._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/Tewiky-Necklace-Layered-Necklaces-Solitaire/dp/B09Q33WGZW"
+    },
+    {
+      "id": "9",
+      "title": "Clover Lucky Bracelet",
+      "price": "13.97",
+      "rating": "4.2",
+      "num_ratings": "373",
+      "photo": "https://m.media-amazon.com/images/I/61rcgVVCpuL._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/AIPPK-Plated-Bracelet-Bracelets-Jewelry/dp/B0CZRTWF81"
+    },
+    {
+      "id": "10",
+      "title": "Twisted Huggie Hoops Earrings",
+      "price": "13.36",
+      "original_price": "17.99",
+      "rating": "4.5",
+      "num_ratings": "6454",
+      "photo": "https://m.media-amazon.com/images/I/81a3BG2MmsL._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/Earrings-Chunky-Twisted-Huggie-Lightweight/dp/B09GY75W7Y"
+    },
+    {
+      "id": "11",
+      "title": "Gold Crystal Solitaire Necklace",
+      "price": "13.45",
+      "rating": "4.4",
+      "num_ratings": "17669",
+      "photo": "https://m.media-amazon.com/images/I/61X-F7dVj7L._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/PAVOI-Swarovski-Solitaire-Necklace-Necklaces/dp/B07QTFTCV2"
+    },
+    {
+      "id": "12",
+      "title": "Dainty Herringbone Gold Necklace",
+      "price": "12.95",
+      "original_price": "15.95",
+      "rating": "4.3",
+      "num_ratings": "2801",
+      "photo": "https://m.media-amazon.com/images/I/61r1FBg1eYL._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/DEARMAY-Necklace-Herringbone-Necklaces-Minimalist/dp/B0B6H8BDJM"
+    },
+    {
+      "id": "13",
+      "title": "Small Chunky Gold Hoops Earrings",
+      "price": "13.95",
+      "rating": "4.4",
+      "num_ratings": "1916",
+      "photo": "https://m.media-amazon.com/images/I/51UaON9qgmL._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/PAVOI-Plated-Sterling-Earrings-Lightweight/dp/B0BKNPPSDL"
+    },
+    {
+      "id": "14",
+      "title": "Bride Crystal Necklace Earrings Set",
+      "price": "13.32",
+      "rating": "4.3",
+      "num_ratings": "2805",
+      "photo": "https://m.media-amazon.com/images/I/51HJvBa8yuL._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/Unicra-Necklace-Earrings-Rhinestone-Silver-1/dp/B08D3CY6RT"
+    },
+    {
+      "id": "15",
+      "title": "Layered Choker Necklace",
+      "price": "15.99",
+      "rating": "4.5",
+      "num_ratings": "23295",
+      "photo": "https://m.media-amazon.com/images/I/51Y9MapedvL._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/Turandoss-Layering-Necklace-Hammered-Pendant/dp/B07YCQB3NJ"
+    }
+  ]
+}
